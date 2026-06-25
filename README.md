@@ -10,7 +10,7 @@ https://www.kaggle.com/competitions/predict-1-year-us-stock-returns-from-fundame
 
 Kaggle 账号：Laiyupeng
 
-最终排名：56
+最终排名：83
 
 平台分数：14765.52270
 
