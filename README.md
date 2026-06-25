@@ -2,7 +2,6 @@
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-Competition-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/competitions/predict-1-year-us-stock-returns-from-fundamentals)
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Machine Learning](https://img.shields.io/badge/ML-Tabular-📊-orange?style=flat-square)]()
 
 本项目专为 Kaggle 竞赛 **"Predict 1-Year US Stock Returns from Fundamentals"** 打造。任务的核心是利用上市公司的底层量化财务基本面数据，精准预测其未来一年的股票收益率。
 
